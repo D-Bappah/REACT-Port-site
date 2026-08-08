@@ -15,6 +15,12 @@ export default function Projects() {
       description: "Designed enterprise-grade Git workflows modelled after large-scale open-source projects, implementing operations like interactive rebasing and cherry-pick patch migration.",
       tech: ["Git", "Bash"]
     },
+     {
+      id: 3,
+      title: "Corporate Company Profile Booklet",
+      description: "•	Coordinated the development of a corporate profile booklet for an engineering firm.",
+      tech: ["Powerpoint", "Canva"]
+    },
     
   ];
 

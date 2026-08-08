@@ -14,7 +14,7 @@ export default function Contact() {
           <a href="https://github.com/D-Bappah" className="p-3 bg-slate-800 rounded-full hover:bg-indigo-500 transition-colors">
             <FaGithub className="w-6 h-6" />
           </a>
-          <a href="https://www.linkedin.com/in/abdulrahman-abubakar" className="p-3 bg-slate-800 rounded-full hover:bg-indigo-500 transition-colors">
+          <a href="https://www.linkedin.com/in/abdulrahman-abubakar-286b01412" className="p-3 bg-slate-800 rounded-full hover:bg-indigo-500 transition-colors">
             <FaLinkedin className="w-6 h-6" />
           </a>
           <a href="https://mail.google.com/mail/u/0/#inbox:abdurrahmanabubakar234@gmail.com" className="p-3 bg-slate-800 rounded-full hover:bg-indigo-500 transition-colors">

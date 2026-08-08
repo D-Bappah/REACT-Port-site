@@ -18,7 +18,7 @@ export default function Projects() {
      {
       id: 3,
       title: "Corporate Company Profile Booklet",
-      description: "•	Coordinated the development of a corporate profile booklet for an engineering firm.",
+      description: "Coordinated the development of a corporate profile booklet for an engineering firm.",
       tech: ["Powerpoint", "Canva"]
     },
     
